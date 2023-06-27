@@ -13,12 +13,14 @@ The website is deployed succesfully.
 
 There are three links in the header of the homepage (search engine optimization, online reputation management and social media marketing).
 
+Annotated screen shot included as a .jpg
+
 
 ## License
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2023 Gavin Watton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
